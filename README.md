@@ -1,1 +1,1 @@
-# _StudiesManagement
+# _studiesManagement
